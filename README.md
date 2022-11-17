@@ -1,4 +1,4 @@
-<img src="https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=750%2C375&strip=all" alt="Logo of the project" align="right">
+<img src="https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg" alt="Logo of the project" align="right">
 
 # NLP-Final-Project; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 > Final project for 6.8610 (Quantitative Methods for Natural Language Processing)
@@ -23,14 +23,19 @@ applied to other similar problems in the realm of multi-document summarization.
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+Go to a folder and run the following to clone this repository and move into the right file directory
 
 ```shell
-commands here
+git clone https://github.com/hesham-nawaz/NLP-Final-Project.git
+cd NLP-Final-Project
 ```
 
-Here you should say what actually happens when you execute the code above.
+After cloning the repository, manually add the appropriate datasets to the folder NLP-Final-Project
+
+### Getting the Dataset 
+
+Download Kaggle Datasets from [HERE](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset). 
+There are two files to place into the `NLP-Final-Project` folder: `rotten_tomatoes_critic_reviews.csv` and `rotten_tomatoes_movies.csv`
 
 ## Developing
 
