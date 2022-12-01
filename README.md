@@ -42,7 +42,7 @@ There are two files to place into the `NLP-Final-Project` folder: `rotten_tomato
 ## Developing
 
 ### Built With
-pandas, python, numpy, rouge-score, matplotlib
+pandas, python, numpy, rouge-score, matplotlib, sumy, nltk, re, heapq
 
 ### Prerequisites
 
